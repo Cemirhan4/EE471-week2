@@ -1,4 +1,4 @@
-#this script written by Emir Han Ceylan
+#junior dev: Emir Han Ceylan
 
 def pleaseConform(caps):
     start = 0
