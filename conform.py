@@ -1,3 +1,5 @@
+#this script written by Emir Han Ceylan
+
 def pleaseConform(caps):
     start = 0
     forward = 0
