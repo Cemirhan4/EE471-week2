@@ -1,4 +1,4 @@
-#this script written by Emir Han Ceylan
+#senior Dev: Emir Han Ceylan
 
 def pleaseConform(caps):
     start = 0
@@ -29,3 +29,5 @@ def pleaseConform(caps):
     for t in intervals:
         if t[2] == flip:
             print('People in positions', t[0], 'through', t[1], 'flip your caps!')
+
+    #dummy comment for please Conformonepass
